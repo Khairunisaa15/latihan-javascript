@@ -11,6 +11,7 @@ try{
 }catch (e) {
     console.error("Terjadi kesalahan", e.message);
 }
+console.log("");
 
 let input = 5; //ubah menjadi 5 agar berhasil
 
